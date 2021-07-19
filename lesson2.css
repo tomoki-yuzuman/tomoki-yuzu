@@ -271,6 +271,11 @@ h3 {
   padding: 0.7rem;
 }
 
+@media (max-width: 1024px) {
+  .section_2 img {
+    width: 100%;
+  }
+}
 @media (max-width: 768px) {
   body {
     width: 100%;
